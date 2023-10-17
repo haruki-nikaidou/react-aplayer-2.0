@@ -1,12 +1,12 @@
 {
-  "name": "react-aplayer",
+  "name": "react-aplayer-2.0",
   "version": "2.0.0",
   "main": "dist/react-aplayer.min.js",
-  "author": "Sabrina Luo <luohaojing@gmail.com>",
+  "author": "Nikaidou Haruki <haruki@plr.moe>",
   "maintainers": [
     {
-      "name": "Nikaidou Haruki",
-      "email": "haruki@plr.moe"
+      "name": "Sabrina Luo",
+      "email": "luohaojing@gmail.com"
     }
   ],
   "homepage": "https://sabrinaluo.github.io/react-aplayer",
@@ -21,10 +21,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sabrinaluo/react-aplayer.git"
+    "url": "https://github.com/haruki-nikaidou/react-aplayer-2.0"
   },
   "bugs": {
-    "url": "https://github.com/sabrinaluo/react-aplayer/issues"
+    "url": "https://github.com/haruki-nikaidou/react-aplayer-2.0/issues"
   },
   "dependencies": {
     "aplayer": "^1.10.1",
